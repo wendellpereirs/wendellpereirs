@@ -22,9 +22,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/>
 </p>
 
-[![wendellpereirs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendellpereirs&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <h3>Ferramentas que utilizo:</h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
